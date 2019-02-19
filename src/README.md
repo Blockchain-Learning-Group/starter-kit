@@ -1,31 +1,39 @@
-# Quick Start
+Quick Start
+============
 
-## Dependencies
+Dependencies
+------------
 
-* `git clone https://github.com/Blockchain-Learning-Group/starter-kit.git`
+* ``git clone https://github.com/Blockchain-Learning-Group/starter-kit.git``
 
-* `cd starter-kit`
+* ``cd starter-kit``
 
-* `npm install`
+* ``npm install``
 
-## Starting your Ethereum Node
-* `ganache-cli`
+Starting your Ethereum Node
+--------------------------
+* ``ganache-cli``
 
-## Deploying the Contract
+Deploying the Contract
+--------------------------
+
 * In a new terminal window as ganache will block the one above
 
-* `cd src`
+* ``cd src``
 
-* `truffle deploy --reset`
+* ``truffle deploy --reset``
 
-## Start the Application
+Start the Application
+--------------------------
 * Ensure you are not in the src directory but are in the starter-kit directory
 
-* `cd ..`
+* ``cd ..``
 
-* `npm start`
+* ``npm start``
 
-## Usage
+Usage
+--------------------------
+
 * Enter a new value and set that as the storage variable within the contract
 
 * View as the value is updated as soon as the event is caught
