@@ -1,6 +1,7 @@
 # Quick Start
 
 ## Dependencies
+
 - `git clone https://github.com/Blockchain-Learning-Group/starter-kit.git`
 
 - `cd starter-kit`
